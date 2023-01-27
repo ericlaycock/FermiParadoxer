@@ -1,0 +1,59 @@
+{
+  "Planets": [
+    {
+      "axialTilt": 90,
+      "name": "Carathur",
+      "atmosphereMass": 100000,
+      "planetMass": 35,
+      "radioConc": -5
+    },
+    {
+      "axialTilt": 10,
+      "name": "Maiata",
+      "atmosphereMass": 1000,
+      "planetMass": 20,
+      "radioConc": -8.9
+    },
+    {
+      "axialTilt": 20,
+      "name": "Mathana",
+      "atmosphereMass": 1000,
+      "planetMass": 13,
+      "radioConc": -7.8
+    },
+    {
+      "axialTilt": 30,
+      "name": "Oora",
+      "atmosphereMass": 100,
+      "planetMass": 8,
+      "radioConc": -8
+    }
+  ],
+  "Galaxies": [
+    {
+      "name": "djdjdjd",
+      "stars": 100,
+      "radius": 100,
+      "age": 10
+    },
+    {
+      "name": "dooooo",
+      "stars": 1,
+      "radius": 1,
+      "age": 14
+    },
+    {
+      "name": "Perfec",
+      "stars": 690,
+      "radius": 24,
+      "age": 5
+    }
+  ],
+  "Solar systems": [{
+    "absoluteMag": 2,
+    "mass": 1,
+    "name": "Omnia",
+    "numPlanets": 13,
+    "stellarClass": 71
+  }]
+}

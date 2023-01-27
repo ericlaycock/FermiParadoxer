@@ -1,0 +1,48 @@
+{
+    "Planets": [],
+    "Galaxies": [
+        {
+            "name": "I have no idea",
+            "stars": 2366,
+            "radius": 57,
+            "age": 10
+        },
+        {
+            "name": "Dadada",
+            "stars": 2366,
+            "radius": 100,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 700,
+            "radius": 100,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 377,
+            "radius": 47,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 109,
+            "radius": 47,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 109,
+            "radius": 21,
+            "age": 7
+        },
+        {
+            "name": "Dadada2",
+            "stars": 270,
+            "radius": 21,
+            "age": 5
+        }
+    ],
+    "Solar systems": []
+}

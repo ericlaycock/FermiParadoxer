@@ -1,0 +1,68 @@
+{
+    "Planets": [
+        {
+            "axialTilt": 0,
+            "name": "test",
+            "atmosphereMass": 0,
+            "planetMass": 2,
+            "radioConc": -10
+        },
+        {
+            "axialTilt": 20,
+            "name": "test",
+            "atmosphereMass": 10,
+            "planetMass": 2,
+            "radioConc": -12
+        },
+        {
+            "axialTilt": 30,
+            "name": "test",
+            "atmosphereMass": 20,
+            "planetMass": 2,
+            "radioConc": -13
+        }
+    ],
+    "Galaxies": [
+        {
+            "name": "gal1",
+            "stars": 4000,
+            "radius": 100,
+            "age": 10
+        },
+        {
+            "name": "gal2",
+            "stars": 399,
+            "radius": 10,
+            "age": 1
+        },
+        {
+            "name": "gal3",
+            "stars": 4000,
+            "radius": 120,
+            "age": 12
+        }
+    ],
+    "Solar systems": [
+        {
+            "absoluteMag": -10,
+            "mass": 1,
+            "name": "test",
+            "numPlanets": 1,
+            "stellarClass": 66
+        },
+        {
+            "absoluteMag": -1,
+            "mass": 2,
+            "name": "test",
+            "numPlanets": 12,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 1,
+            "name": "test",
+            "numPlanets": 10,
+            "stellarClass": 70
+        }
+    ]
+}

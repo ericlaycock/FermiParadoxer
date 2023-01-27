@@ -1,0 +1,30 @@
+{
+    "Planets": [],
+    "Galaxies": [
+        {
+            "name": "Newgalaxy",
+            "stars": 10,
+            "radius": 10,
+            "age": 10
+        },
+        {
+            "name": "googo",
+            "stars": 5000,
+            "radius": 50,
+            "age": 7
+        },
+        {
+            "name": "gababa",
+            "stars": 5000,
+            "radius": 50,
+            "age": 7
+        },
+        {
+            "name": "yodelio",
+            "stars": 5000,
+            "radius": 50,
+            "age": 7
+        }
+    ],
+    "Solar systems": []
+}

@@ -1,0 +1,211 @@
+{
+    "Planets": [
+        {
+            "axialTilt": 37,
+            "name": "pluto",
+            "atmosphereMass": 32259,
+            "planetMass": 14,
+            "radioConc": -8
+        },
+        {
+            "axialTilt": 37,
+            "name": "pluto2",
+            "atmosphereMass": 55377,
+            "planetMass": 20,
+            "radioConc": -6.9
+        },
+        {
+            "axialTilt": 19,
+            "name": "erf",
+            "atmosphereMass": 29033,
+            "planetMass": 20,
+            "radioConc": -6.9
+        },
+        {
+            "axialTilt": 19,
+            "name": "erph",
+            "atmosphereMass": 29033,
+            "planetMass": 20,
+            "radioConc": -8.9
+        },
+        {
+            "axialTilt": 19,
+            "name": "erph",
+            "atmosphereMass": 29033,
+            "planetMass": 20,
+            "radioConc": -7.9
+        },
+        {
+            "axialTilt": 19,
+            "name": "erph",
+            "atmosphereMass": 19356,
+            "planetMass": 20,
+            "radioConc": -7.9
+        },
+        {
+            "axialTilt": 19,
+            "name": "erph",
+            "atmosphereMass": 7528,
+            "planetMass": 20,
+            "radioConc": -7.9
+        },
+        {
+            "axialTilt": 19,
+            "name": "erph",
+            "atmosphereMass": 7528,
+            "planetMass": 20,
+            "radioConc": -8.4
+        },
+        {
+            "axialTilt": 19,
+            "name": "erph",
+            "atmosphereMass": 7528,
+            "planetMass": 20,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 12,
+            "name": "erph",
+            "atmosphereMass": 7528,
+            "planetMass": 20,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 12,
+            "name": "erph",
+            "atmosphereMass": 3227,
+            "planetMass": 20,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 12,
+            "name": "erph",
+            "atmosphereMass": 1,
+            "planetMass": 20,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 21,
+            "name": "erph",
+            "atmosphereMass": 2689,
+            "planetMass": 12,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 21,
+            "name": "erph",
+            "atmosphereMass": 2152,
+            "planetMass": 12,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 21,
+            "name": "erph",
+            "atmosphereMass": 1,
+            "planetMass": 12,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 0,
+            "name": "erph",
+            "atmosphereMass": 1,
+            "planetMass": 12,
+            "radioConc": -7.7
+        },
+        {
+            "axialTilt": 90,
+            "name": "erph",
+            "atmosphereMass": 1,
+            "planetMass": 12,
+            "radioConc": -7.7
+        }
+    ],
+    "Galaxies": [
+        {
+            "name": "I have no idea",
+            "stars": 2366,
+            "radius": 57,
+            "age": 10
+        },
+        {
+            "name": "Dadada",
+            "stars": 2366,
+            "radius": 100,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 700,
+            "radius": 100,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 377,
+            "radius": 47,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 109,
+            "radius": 47,
+            "age": 7
+        },
+        {
+            "name": "Dadada",
+            "stars": 109,
+            "radius": 21,
+            "age": 7
+        },
+        {
+            "name": "Dadada2",
+            "stars": 270,
+            "radius": 21,
+            "age": 5
+        }
+    ],
+    "Solar systems": [
+        {
+            "absoluteMag": 7,
+            "mass": 75.52,
+            "name": "xenoid",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 7,
+            "mass": 39.9,
+            "name": "xenoid",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 0,
+            "mass": 39.9,
+            "name": "xenoid2",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": -2,
+            "mass": 39.9,
+            "name": "xenoid2",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": -2,
+            "mass": 17.11,
+            "name": "xenoid3",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": -2,
+            "mass": 7.13,
+            "name": "xenoid3",
+            "numPlanets": 15,
+            "stellarClass": 71
+        }
+    ]
+}

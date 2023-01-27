@@ -1,0 +1,48 @@
+{
+    "Planets": [],
+    "Galaxies": [
+        {
+            "name": "Newgalaxy",
+            "stars": 10,
+            "radius": 10,
+            "age": 10
+        },
+        {
+            "name": "",
+            "stars": 5000,
+            "radius": 16,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 1,
+            "radius": 16,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 16,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 77,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 61,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 45,
+            "age": 7
+        }
+    ],
+    "Solar systems": []
+}

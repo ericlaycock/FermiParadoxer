@@ -1,0 +1,5 @@
+Your solar system is uninhabitable - your planets are either too far from the sun or too close to support life! Consider either changing your stellar mass, your star's brightness or its class.
+Your solar system is uninhabitable - the orbit of your planets varies too much. Sometimes they're in the "Goldilock's Zone", sometimes they fall far outside of it. (Hint - the more planets in a system, the more stable their orbits are.)
+Your solar system is habitable! One planet has managed to end up in a stable orbit in the goldilocks zone. Hopefully you'll succeed at your next task...
+Your solar system is ideal for supporting life - there are several planets in the goldilocks zone, greatly increasing your chance of one of them evolving life!
+Your solar system is uninhabitable - while there are a few planets in the goldilocks zone, the superabundance of planets means every billion years or so there is a cataclysmic disturbance in the orbits of your planets - sending your nascent life-forms out into the cold of space. Try less planets!

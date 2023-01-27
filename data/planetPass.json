@@ -1,0 +1,140 @@
+{
+    "Planets": [],
+    "Galaxies": [
+        {
+            "name": "Newgalaxy",
+            "stars": 10,
+            "radius": 10,
+            "age": 10
+        },
+        {
+            "name": "",
+            "stars": 5000,
+            "radius": 16,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 1,
+            "radius": 16,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 16,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 77,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 61,
+            "age": 7
+        },
+        {
+            "name": "saas",
+            "stars": 539,
+            "radius": 45,
+            "age": 7
+        }
+    ],
+    "Solar systems": [
+        {
+            "absoluteMag": 5,
+            "mass": 132.5,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 70
+        },
+        {
+            "absoluteMag": -3,
+            "mass": 132.5,
+            "name": "",
+            "numPlanets": 5,
+            "stellarClass": 70
+        },
+        {
+            "absoluteMag": -3,
+            "mass": 4.28,
+            "name": "",
+            "numPlanets": 5,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": -3,
+            "mass": 4.28,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 75
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 4.28,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 75
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 4.28,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 2.86,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 2.86,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 2.86,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 2.86,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 2,
+            "mass": 2.86,
+            "name": "",
+            "numPlanets": 15,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": 0,
+            "mass": 2.86,
+            "name": "",
+            "numPlanets": 14,
+            "stellarClass": 71
+        },
+        {
+            "absoluteMag": -1,
+            "mass": 2.86,
+            "name": "",
+            "numPlanets": 14,
+            "stellarClass": 71
+        }
+    ]
+}
